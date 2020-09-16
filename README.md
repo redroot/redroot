@@ -8,8 +8,3 @@ I'm a polyglot lead engineer working as a **Principal Engineer** at **[carwow](h
 - 📜  My experience: [Linkedin](https://www.linkedin.com/in/redroot/)
 - 📫  How to reach me: twitter.com/luke_redroot
 - 😎  Pronouns: He/Him
-
-![redroot's github stats](https://github-readme-stats.vercel.app/api?username=redroot&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redroot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
