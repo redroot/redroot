@@ -7,3 +7,4 @@ I'm a polyglot lead engineer working as a **Principal Engineer** at **[carwow](h
 - 📓  My website/blog: [red-root.com](http://red-root.com)
 - 📜  My experience: [Linkedin](https://www.linkedin.com/in/redroot/)
 - 📫  How to reach me: twitter.com/luke_redroot
+- 👋 Pronouns: He/Him
