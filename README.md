@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a polyglot lead engineer working as a **Principal Engineer** at **[carwow](http://github.com/carwow)**. 
+I'm a polyglot lead engineer
 
 - 🌝  Passionate about: building software that adds value, building great teams and growing developers, continuously learning, cost of maintainence vs cost of build
 - 🚧  Currently learning: Machine Learning and Unity (when I find the time)
