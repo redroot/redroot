@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Principal Engineer at [Loveholidays](https://github.com/loveholidays)
+I'm Head of Engineering for the Selling department at [Loveholidays](https://github.com/loveholidays)
 
 - 🌝  Passionate about: building software that adds value, building great teams and growing developers, continuously learning, cost of maintainence vs cost of build
 - 🚧  Currently learning: Machine Learning and Unity (when I find the time)
